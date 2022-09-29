@@ -56,6 +56,7 @@ public class Actividad15 {
                         }
                     } else if (("datosPublicos").equals(nodeHijos.getNodeName())) {
                         NodeList datosPublicos = nodeHijos.getChildNodes();
+                        System.out.println("IMPRIMIR");
                     
                     }
 
